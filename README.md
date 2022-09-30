@@ -78,7 +78,7 @@ $ python3 xssearch.py -u url.com/?s={xss} -p payloads.txt
 $ python3 xssearch.py -u https://ac121f0e1eb31ae5c0c9473f00f400f7.web-security-academy.net/?search={xss} -p payloads.txt
 ````
 <p align="center">
-<img src=https://github.com/Encryptor-Sec/XSSearch/blob/main/Images/xssearch.PNG>
+<img src=https://github.com/trhacknon/XSSearch/blob/main/Images/xssearch.PNG>
 </p>
 
 Above is the screenshot of the tool with live example.<br/>
@@ -93,7 +93,7 @@ Use the below command to get help
 $ python3 xssearch.py -h
 ````
 <p align="center">
-<img src=https://github.com/Encryptor-Sec/XSSearch/blob/main/Images/xssearch_warnings.PNG>
+<img src=https://github.com/trhacknon/XSSearch/blob/main/Images/xssearch_warnings.PNG>
 </p>
 
 ***
@@ -103,8 +103,8 @@ $ python3 xssearch.py -h
 #### More suggestions and contributions are highly appreciated to make this tool better :)
 ### _STAY SAFE, ACT SMART_
 ### Hit Me Up
-[![Twitter ](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_encryptor_)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xhackerboyy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathyaprakashsahoo)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.cyberbuddy.co.in)
+[![Twitter ](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://memanon.ml)
 
