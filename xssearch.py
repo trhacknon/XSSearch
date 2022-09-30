@@ -26,7 +26,7 @@ banner = \
  	   \033[33m A Comprehensive Reflected XSS Scanner\033[0m 
 	-----------------------------------------------
 
-	   DEVELOPED & OWNED BY : SATHYAPRAKASH SAHOO 
+	   DEVELOPED & OWNED BY : TRHACKNON ANONYMOUS 
 
 '''
 
